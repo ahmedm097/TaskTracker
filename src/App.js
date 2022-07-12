@@ -10,13 +10,13 @@ function App() {
     {
       id: 1,
       text: "Meeting at School",
-      day: "Feb 6th at 1:30pm",
+      day: "May 6th at 1:30pm",
       reminder: true,
     },
     {
       id: 2,
       text: "Lunch With Friends",
-      day: "Feb 7th at 2:30pm",
+      day: "May 7th at 2:30pm",
       reminder: false,
     },
   ]);
